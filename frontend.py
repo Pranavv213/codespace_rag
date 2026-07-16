@@ -752,7 +752,7 @@ if st.session_state.current_index:
         # User query input
         user_query = st.text_input(
             "Ask a question about your codebase",
-            placeholder="e.g., What authentication methods are used?",
+           
             key="user_query_input"
         )
         
