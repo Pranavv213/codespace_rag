@@ -1,10 +1,8 @@
 # Changelog
 
-## [1.1.0] - 2026-08-04
+## [1.1.1] - 2026-08-04
 
-### Added
-- Add files via upload (cae8cbb)
-- Add files via upload (4dfb71f)
-- Add files via upload (078ac63)
+### Changed
+- docs: update CHANGELOG.md for v1.1.0 release #1
 
 All notable changes are documented here.
